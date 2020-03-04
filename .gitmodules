@@ -1,6 +1,0 @@
-[submodule "DashBoardRoot"]
-	path = DashBoardRoot
-	url = https://github.com/tiagoMissiato/dashboardroot.git
-[submodule "DashBoardModule2"]
-	path = DashBoardModule2
-	url = https://github.com/tiagoMissiato/dashboardmodule2.git
