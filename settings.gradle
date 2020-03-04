@@ -1,2 +1,4 @@
 rootProject.name='DashBoardModule1'
 include ':app'
+include ':app:featuremodule1'
+include ':featuremodule12'
